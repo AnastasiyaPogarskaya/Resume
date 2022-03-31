@@ -2,4 +2,4 @@
 
 ## Результат можно посмотреть тут
 
-[Cсылка на работу:](https://anastasiyapogarskaya.github.io/Resume/)
+[Cсылка на работу](https://anastasiyapogarskaya.github.io/Resume/)
